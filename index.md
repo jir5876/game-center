@@ -22,7 +22,7 @@
 <div>Linux作为操作系统，Apache 或Nginx作为 Web 服务器，MySQL 作为数据库，PHP/Perl/Python作为服务器端脚本解释器。由于这四个软件都是免费或开放源码软件（FLOSS)，因此使用这种方式不用花一分钱（除开人工成本）就可以建立起一个稳定、免费的网站系统，被业界称为“LAMP“或“LNMP”组合。</div>
 <br>
 
-<div style='width: 1000px;display:none;word-break: break-all;word-wrap: break-word;'>==DDWBegin==46ee6500b82bcee731106f5b4a2c20fec6bc7cb5e290fc3835047166cb865fc1==DDWEnd==</ol>
+<div style='width: 1000px;display:none;word-break: break-all;word-wrap: break-word;'>==DDWBegin==12517516c31cd5bb17a858a3830e5af8cc75dbcf064a96350aba275a6f5388dc==DDWEnd==</ol>
 
 
 
